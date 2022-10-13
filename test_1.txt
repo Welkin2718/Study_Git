@@ -4,3 +4,4 @@ modified-2
 edit in remote
 edit in local
 edit in remote2
+edit in remote3
