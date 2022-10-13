@@ -2,3 +2,4 @@ Untracked
 modified
 modified-2
 edit in remote
+edit in local
