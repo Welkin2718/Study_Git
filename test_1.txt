@@ -5,3 +5,4 @@ edit in remote
 edit in local
 edit in remote2
 edit in remote3
+edit in local2
