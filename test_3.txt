@@ -2,3 +2,4 @@ test_3
 edit in Sourcetree
 edit on GitHub
 Local push
+GitHub/master/test_3.txt:GitHub
